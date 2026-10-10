@@ -2,7 +2,7 @@
 
 **Дата набрання чинності:** 10 жовтня 2026 р.
 **Розробник:** Вадим Тригубець (незалежний розробник)
-**Контакт:** mynameisfreeman@gmail.com
+**Контакт:** vadymtryhubets@gmail.com
 
 *English version is below.*
 
@@ -88,7 +88,7 @@ UltraEnergy SMS Tool (далі — «Розширення») — робочий 
 
 **Effective date:** October 10, 2026
 **Developer:** Vadym Tryhubets (independent developer)
-**Contact:** mynameisfreeman@gmail.com
+**Contact:** vadymtryhubets@gmail.com
 
 ## 1. About
 
